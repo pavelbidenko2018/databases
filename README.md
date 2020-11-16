@@ -86,7 +86,7 @@ The goal is to make this a very hands-on class. Nonetheless it's important to fa
 
 #### Before Break
 
-Check out this week's exercises [here](./week-1/sql-exercises.md).
+Check out this week's exercises [here](./week-1/README.md).
 
 #### After Break
 
@@ -131,7 +131,7 @@ Just as last week we want to focus on practice. But some preparation never hurts
 
 #### Before Break
 
-Check out this week's exercises [here](./week-2/sql-exercises.md).
+Check out this week's exercises [here](./week-2/README.md).
 
 #### After Break
 
