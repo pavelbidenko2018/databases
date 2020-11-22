@@ -14,15 +14,14 @@ const db = new sqlite3.Database(DB_PATH);
 
 const userInput = {};
 
-const queryString = ``;
+const queryString = `SELECT FirstName FROM Employee`;
 
 db.all(queryString, (err, rows) => {
-  if (err) {
-    console.error(err);
-  } else {
-    console.log(rows);
-  }
+    if (err) {
+        console.error(err);
+    } else {
+        console.log(rows);
+    }
 
-  db.close();
+    db.close();
 });
-
