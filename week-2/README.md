@@ -207,9 +207,9 @@ HAVING IsEqual = FALSE;
 
 ## Create, Alter and Drop
 
-<details><summary>14. Create the ERD for the HackYourFuture database (you can Draw.io. check out this how-to)</summary>
+<details><summary>14. Create the ERD for the HackYourFuture database (you can use Draw.io. check out [this how-to](https://drawio-app.com/entity-relationship-diagrams-with-draw-io/))</summary>
 
-![HackYourFuture ERD](hyf-erd.png)
+![HackYourFuture ERD](hyf-possible-erd.png)
 
 Note that this is just one possible, albeit simple, solution.
 </details>
